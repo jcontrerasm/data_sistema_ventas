@@ -1,0 +1,675 @@
+[
+  {
+    "duplicated": null,
+    "id": 1,
+    "amount": 1000,
+    "current_amount": 1000,
+    "net_amount": 955,
+    "product_description": "Venta de prueba.",
+    "date": 1474491847000,
+    "fraud_score": 37.57,
+    "installments": 0,
+    "installments_amount": null,
+    "reference_code": null,
+    "response_code": "venta_exitosa",
+    "merchant_message": "La operación de venta ha sido autorizada exitosamente",
+    "user_message": "Su compra ha sido exitosa.",
+    "device_ip": "200.48.22.49",
+    "device_country": "Perú",
+    "country_ip": null,
+    "product": "web",
+    "state": "Exitosa",
+    "client": {
+      "country_code": "PE",
+      "first_name": "William",
+      "last_name": "Muro",
+      "address_city": "Lima",
+      "address": "Avenida Lima 1234",
+      "email": "soporte@culqi.com",
+      "phone": "12345",
+      "object": "client"
+    },
+    "token": {
+      "id": null,
+      "card_number": "411111******1111",
+      "cardholder": {
+        "first_name": "Luis",
+        "email": "lgonzales@me.com",
+        "last_name": "Gonzales",
+        "object": "cardholder"
+      },
+      "brand_name": "Visa",
+      "bank_name": "JPMORGAN CHASE BANK, N.A.",
+      "bank_country": "United States",
+      "object": "token"
+    },
+    "fees": [
+      {
+        "type": "comision_porcentual",
+        "amount": 38,
+        "taxes": 7,
+        "total_amount": 45,
+        "currency_code": "PEN",
+        "object": "fee"
+      }
+    ],
+    "object": "charge"
+  },
+  {
+    "duplicated": null,
+    "id": 2,
+    "amount": 1000,
+    "current_amount": 1000,
+    "net_amount": 855,
+    "product_description": "Venta de prueba.",
+    "date": 1474491847000,
+    "fraud_score": 23,
+    "installments": 0,
+    "installments_amount": null,
+    "reference_code": null,
+    "response_code": "venta_exitosa",
+    "merchant_message": "La operación de venta ha sido autorizada exitosamente",
+    "user_message": "Su compra ha sido exitosa.",
+    "device_ip": "200.48.22.49",
+    "device_country": "Perú",
+    "country_ip": null,
+    "product": "web",
+    "state": "Exitosa",
+    "client": {
+      "country_code": "PE",
+      "first_name": "Christian",
+      "last_name": "Cabanillas",
+      "address_city": "Lima",
+      "address": "Avenida Lima 1234",
+      "email": "soporte@culqi.com",
+      "phone": "12345",
+      "object": "client"
+    },
+    "token": {
+      "id": null,
+      "card_number": "411111******1111",
+      "cardholder": {
+        "first_name": "Luis",
+        "email": "lgonzales@me.com",
+        "last_name": "Gonzales",
+        "object": "cardholder"
+      },
+      "brand_name": "Visa",
+      "bank_name": "JPMORGAN CHASE BANK, N.A.",
+      "bank_country": "United States",
+      "object": "token"
+    },
+    "fees": [
+      {
+        "type": "comision_porcentual",
+        "amount": 38,
+        "taxes": 7,
+        "total_amount": 45,
+        "currency_code": "PEN",
+        "object": "fee"
+      }
+    ],
+    "object": "charge"
+  },
+  {
+    "duplicated": null,
+    "id": 3,
+    "amount": 1000,
+    "current_amount": 1000,
+    "net_amount": 484,
+    "product_description": "Venta de prueba.",
+    "date": 1474491847000,
+    "fraud_score": 33,
+    "installments": 0,
+    "installments_amount": null,
+    "reference_code": null,
+    "response_code": "venta_exitosa",
+    "merchant_message": "La operación de venta ha sido autorizada exitosamente",
+    "user_message": "Su compra ha sido exitosa.",
+    "device_ip": "200.48.22.49",
+    "device_country": "Perú",
+    "country_ip": null,
+    "product": "web",
+    "state": "Exitosa",
+    "client": {
+      "country_code": "PE",
+      "first_name": "Katherine",
+      "last_name": "Saldaña",
+      "address_city": "Lima",
+      "address": "Avenida Lima 1234",
+      "email": "soporte@culqi.com",
+      "phone": "12345",
+      "object": "client"
+    },
+    "token": {
+      "id": null,
+      "card_number": "411111******1111",
+      "cardholder": {
+        "first_name": "Luis",
+        "email": "lgonzales@me.com",
+        "last_name": "Gonzales",
+        "object": "cardholder"
+      },
+      "brand_name": "Visa",
+      "bank_name": "JPMORGAN CHASE BANK, N.A.",
+      "bank_country": "United States",
+      "object": "token"
+    },
+    "fees": [
+      {
+        "type": "comision_porcentual",
+        "amount": 38,
+        "taxes": 7,
+        "total_amount": 45,
+        "currency_code": "PEN",
+        "object": "fee"
+      }
+    ],
+    "object": "charge"
+  },
+  {
+    "duplicated": null,
+    "id": 4,
+    "amount": 1000,
+    "current_amount": 1000,
+    "net_amount": 255,
+    "product_description": "Venta de prueba.",
+    "date": 1474491847000,
+    "fraud_score": 33,
+    "installments": 0,
+    "installments_amount": null,
+    "reference_code": null,
+    "response_code": "venta_exitosa",
+    "merchant_message": "La operación de venta ha sido autorizada exitosamente",
+    "user_message": "Su compra ha sido exitosa.",
+    "device_ip": "200.48.22.49",
+    "device_country": "Perú",
+    "country_ip": null,
+    "product": "web",
+    "state": "Exitosa",
+    "client": {
+      "country_code": "PE",
+      "first_name": "Miriam",
+      "last_name": "Cadillo",
+      "address_city": "Lima",
+      "address": "Avenida Lima 1234",
+      "email": "soporte@culqi.com",
+      "phone": "12345",
+      "object": "client"
+    },
+    "token": {
+      "id": null,
+      "card_number": "411111******1111",
+      "cardholder": {
+        "first_name": "Luis",
+        "email": "lgonzales@me.com",
+        "last_name": "Gonzales",
+        "object": "cardholder"
+      },
+      "brand_name": "Visa",
+      "bank_name": "JPMORGAN CHASE BANK, N.A.",
+      "bank_country": "United States",
+      "object": "token"
+    },
+    "fees": [
+      {
+        "type": "comision_porcentual",
+        "amount": 38,
+        "taxes": 7,
+        "total_amount": 45,
+        "currency_code": "PEN",
+        "object": "fee"
+      }
+    ],
+    "object": "charge"
+  },
+  {
+    "duplicated": null,
+    "id": 5,
+    "amount": 1000,
+    "current_amount": 1000,
+    "net_amount": 208,
+    "product_description": "Venta de prueba.",
+    "date": 1474491847000,
+    "fraud_score": 80,
+    "installments": 0,
+    "installments_amount": null,
+    "reference_code": null,
+    "response_code": "venta_exitosa",
+    "merchant_message": "La operación de venta ha sido autorizada exitosamente",
+    "user_message": "Su compra ha sido exitosa.",
+    "device_ip": "200.48.22.49",
+    "device_country": "Perú",
+    "country_ip": null,
+    "product": "web",
+    "state": "Exitosa",
+    "client": {
+      "country_code": "PE",
+      "first_name": "Jhon",
+      "last_name": "Trujillo",
+      "address_city": "Lima",
+      "address": "Avenida Lima 1234",
+      "email": "soporte@culqi.com",
+      "phone": "12345",
+      "object": "client"
+    },
+    "token": {
+      "id": null,
+      "card_number": "411111******1111",
+      "cardholder": {
+        "first_name": "Luis",
+        "email": "lgonzales@me.com",
+        "last_name": "Gonzales",
+        "object": "cardholder"
+      },
+      "brand_name": "Visa",
+      "bank_name": "JPMORGAN CHASE BANK, N.A.",
+      "bank_country": "United States",
+      "object": "token"
+    },
+    "fees": [
+      {
+        "type": "comision_porcentual",
+        "amount": 38,
+        "taxes": 7,
+        "total_amount": 45,
+        "currency_code": "PEN",
+        "object": "fee"
+      }
+    ],
+    "object": "charge"
+  },
+  {
+    "duplicated": null,
+    "id": 6,
+    "amount": 1000,
+    "current_amount": 1000,
+    "net_amount": 10,
+    "product_description": "Venta de prueba.",
+    "date": 1474491847000,
+    "fraud_score": 25,
+    "installments": 0,
+    "installments_amount": null,
+    "reference_code": null,
+    "response_code": "venta_exitosa",
+    "merchant_message": "La operación de venta ha sido autorizada exitosamente",
+    "user_message": "Su compra ha sido exitosa.",
+    "device_ip": "200.48.22.49",
+    "device_country": "Perú",
+    "country_ip": null,
+    "product": "web",
+    "state": "Exitosa",
+    "client": {
+      "country_code": "PE",
+      "first_name": "Sebastian",
+      "last_name": "Delgado",
+      "address_city": "Lima",
+      "address": "Avenida Lima 1234",
+      "email": "soporte@culqi.com",
+      "phone": "12345",
+      "object": "client"
+    },
+    "token": {
+      "id": null,
+      "card_number": "411111******1111",
+      "cardholder": {
+        "first_name": "Luis",
+        "email": "lgonzales@me.com",
+        "last_name": "Gonzales",
+        "object": "cardholder"
+      },
+      "brand_name": "Visa",
+      "bank_name": "JPMORGAN CHASE BANK, N.A.",
+      "bank_country": "United States",
+      "object": "token"
+    },
+    "fees": [
+      {
+        "type": "comision_porcentual",
+        "amount": 38,
+        "taxes": 7,
+        "total_amount": 45,
+        "currency_code": "PEN",
+        "object": "fee"
+      }
+    ],
+    "object": "charge"
+  },
+  {
+    "duplicated": null,
+    "id": 7,
+    "amount": 1000,
+    "current_amount": 1000,
+    "net_amount": 890,
+    "product_description": "Venta de prueba.",
+    "date": 1474491847000,
+    "fraud_score": 96,
+    "installments": 0,
+    "installments_amount": null,
+    "reference_code": null,
+    "response_code": "venta_exitosa",
+    "merchant_message": "La operación de venta ha sido autorizada exitosamente",
+    "user_message": "Su compra ha sido exitosa.",
+    "device_ip": "200.48.22.49",
+    "device_country": "Perú",
+    "country_ip": null,
+    "product": "web",
+    "state": "Exitosa",
+    "client": {
+      "country_code": "PE",
+      "first_name": "Patricia",
+      "last_name": "Meneses",
+      "address_city": "Lima",
+      "address": "Avenida Lima 1234",
+      "email": "soporte@culqi.com",
+      "phone": "12345",
+      "object": "client"
+    },
+    "token": {
+      "id": null,
+      "card_number": "411111******1111",
+      "cardholder": {
+        "first_name": "Luis",
+        "email": "lgonzales@me.com",
+        "last_name": "Gonzales",
+        "object": "cardholder"
+      },
+      "brand_name": "Visa",
+      "bank_name": "JPMORGAN CHASE BANK, N.A.",
+      "bank_country": "United States",
+      "object": "token"
+    },
+    "fees": [
+      {
+        "type": "comision_porcentual",
+        "amount": 38,
+        "taxes": 7,
+        "total_amount": 45,
+        "currency_code": "PEN",
+        "object": "fee"
+      }
+    ],
+    "object": "charge"
+  },
+  {
+    "duplicated": null,
+    "id": 8,
+    "amount": 1000,
+    "current_amount": 1000,
+    "net_amount": 365,
+    "product_description": "Venta de prueba.",
+    "date": 1474491847000,
+    "fraud_score": 37.57,
+    "installments": 0,
+    "installments_amount": null,
+    "reference_code": null,
+    "response_code": "venta_exitosa",
+    "merchant_message": "La operación de venta ha sido autorizada exitosamente",
+    "user_message": "Su compra ha sido exitosa.",
+    "device_ip": "200.48.22.49",
+    "device_country": "Perú",
+    "country_ip": null,
+    "product": "web",
+    "state": "Exitosa",
+    "client": {
+      "country_code": "PE",
+      "first_name": "William",
+      "last_name": "Muro",
+      "address_city": "Lima",
+      "address": "Avenida Lima 1234",
+      "email": "soporte@culqi.com",
+      "phone": "12345",
+      "object": "client"
+    },
+    "token": {
+      "id": null,
+      "card_number": "411111******1111",
+      "cardholder": {
+        "first_name": "Luis",
+        "email": "lgonzales@me.com",
+        "last_name": "Gonzales",
+        "object": "cardholder"
+      },
+      "brand_name": "Visa",
+      "bank_name": "JPMORGAN CHASE BANK, N.A.",
+      "bank_country": "United States",
+      "object": "token"
+    },
+    "fees": [
+      {
+        "type": "comision_porcentual",
+        "amount": 38,
+        "taxes": 7,
+        "total_amount": 45,
+        "currency_code": "PEN",
+        "object": "fee"
+      }
+    ],
+    "object": "charge"
+  },
+  {
+    "duplicated": null,
+    "id": 9,
+    "amount": 1000,
+    "current_amount": 1000,
+    "net_amount": 786,
+    "product_description": "Venta de prueba.",
+    "date": 1474491847000,
+    "fraud_score": 37.57,
+    "installments": 0,
+    "installments_amount": null,
+    "reference_code": null,
+    "response_code": "venta_exitosa",
+    "merchant_message": "La operación de venta ha sido autorizada exitosamente",
+    "user_message": "Su compra ha sido exitosa.",
+    "device_ip": "200.48.22.49",
+    "device_country": "Perú",
+    "country_ip": null,
+    "product": "web",
+    "state": "Exitosa",
+    "client": {
+      "country_code": "PE",
+      "first_name": "Renata",
+      "last_name": "Arce",
+      "address_city": "Lima",
+      "address": "Avenida Lima 1234",
+      "email": "soporte@culqi.com",
+      "phone": "12345",
+      "object": "client"
+    },
+    "token": {
+      "id": null,
+      "card_number": "411111******1111",
+      "cardholder": {
+        "first_name": "Luis",
+        "email": "lgonzales@me.com",
+        "last_name": "Gonzales",
+        "object": "cardholder"
+      },
+      "brand_name": "Visa",
+      "bank_name": "JPMORGAN CHASE BANK, N.A.",
+      "bank_country": "United States",
+      "object": "token"
+    },
+    "fees": [
+      {
+        "type": "comision_porcentual",
+        "amount": 38,
+        "taxes": 7,
+        "total_amount": 45,
+        "currency_code": "PEN",
+        "object": "fee"
+      }
+    ],
+    "object": "charge"
+  },
+  {
+    "duplicated": null,
+    "id": 10,
+    "amount": 1000,
+    "current_amount": 1000,
+    "net_amount": 644,
+    "product_description": "Venta de prueba.",
+    "date": 1474491847000,
+    "fraud_score": 37.57,
+    "installments": 0,
+    "installments_amount": null,
+    "reference_code": null,
+    "response_code": "venta_exitosa",
+    "merchant_message": "La operación de venta ha sido autorizada exitosamente",
+    "user_message": "Su compra ha sido exitosa.",
+    "device_ip": "200.48.22.49",
+    "device_country": "Perú",
+    "country_ip": null,
+    "product": "web",
+    "state": "Exitosa",
+    "client": {
+      "country_code": "PE",
+      "first_name": "Lorena",
+      "last_name": "Venegas",
+      "address_city": "Lima",
+      "address": "Avenida Lima 1234",
+      "email": "soporte@culqi.com",
+      "phone": "12345",
+      "object": "client"
+    },
+    "token": {
+      "id": null,
+      "card_number": "411111******1111",
+      "cardholder": {
+        "first_name": "Luis",
+        "email": "lgonzales@me.com",
+        "last_name": "Gonzales",
+        "object": "cardholder"
+      },
+      "brand_name": "Visa",
+      "bank_name": "JPMORGAN CHASE BANK, N.A.",
+      "bank_country": "United States",
+      "object": "token"
+    },
+    "fees": [
+      {
+        "type": "comision_porcentual",
+        "amount": 38,
+        "taxes": 7,
+        "total_amount": 45,
+        "currency_code": "PEN",
+        "object": "fee"
+      }
+    ],
+    "object": "charge"
+  },
+  {
+    "duplicated": null,
+    "id": 11,
+    "amount": 1000,
+    "current_amount": 1000,
+    "net_amount": 355,
+    "product_description": "Venta de prueba.",
+    "date": 1474491847000,
+    "fraud_score": 37.57,
+    "installments": 0,
+    "installments_amount": null,
+    "reference_code": null,
+    "response_code": "venta_exitosa",
+    "merchant_message": "La operación de venta ha sido autorizada exitosamente",
+    "user_message": "Su compra ha sido exitosa.",
+    "device_ip": "200.48.22.49",
+    "device_country": "Perú",
+    "country_ip": null,
+    "product": "web",
+    "state": "Exitosa",
+    "client": {
+      "country_code": "PE",
+      "first_name": "Melissa",
+      "last_name": "Rodriguez",
+      "address_city": "Lima",
+      "address": "Avenida Lima 1234",
+      "email": "soporte@culqi.com",
+      "phone": "12345",
+      "object": "client"
+    },
+    "token": {
+      "id": null,
+      "card_number": "411111******1111",
+      "cardholder": {
+        "first_name": "Luis",
+        "email": "lgonzales@me.com",
+        "last_name": "Gonzales",
+        "object": "cardholder"
+      },
+      "brand_name": "Visa",
+      "bank_name": "JPMORGAN CHASE BANK, N.A.",
+      "bank_country": "United States",
+      "object": "token"
+    },
+    "fees": [
+      {
+        "type": "comision_porcentual",
+        "amount": 38,
+        "taxes": 7,
+        "total_amount": 45,
+        "currency_code": "PEN",
+        "object": "fee"
+      }
+    ],
+    "object": "charge"
+  },
+  {
+    "duplicated": null,
+    "id": 12,
+    "amount": 1000,
+    "current_amount": 1000,
+    "net_amount": 455,
+    "product_description": "Venta de prueba.",
+    "date": 1474491847000,
+    "fraud_score": 37.57,
+    "installments": 0,
+    "installments_amount": null,
+    "reference_code": null,
+    "response_code": "venta_exitosa",
+    "merchant_message": "La operación de venta ha sido autorizada exitosamente",
+    "user_message": "Su compra ha sido exitosa.",
+    "device_ip": "200.48.22.49",
+    "device_country": "Perú",
+    "country_ip": null,
+    "product": "web",
+    "state": "Exitosa",
+    "client": {
+      "country_code": "PE",
+      "first_name": "Juan",
+      "last_name": "Montero",
+      "address_city": "Lima",
+      "address": "Avenida Lima 1234",
+      "email": "soporte@culqi.com",
+      "phone": "12345",
+      "object": "client"
+    },
+    "token": {
+      "id": null,
+      "card_number": "411111******1111",
+      "cardholder": {
+        "first_name": "Luis",
+        "email": "lgonzales@me.com",
+        "last_name": "Gonzales",
+        "object": "cardholder"
+      },
+      "brand_name": "Visa",
+      "bank_name": "JPMORGAN CHASE BANK, N.A.",
+      "bank_country": "United States",
+      "object": "token"
+    },
+    "fees": [
+      {
+        "type": "comision_porcentual",
+        "amount": 38,
+        "taxes": 7,
+        "total_amount": 45,
+        "currency_code": "PEN",
+        "object": "fee"
+      }
+    ],
+    "object": "charge"
+  }
+]
+
